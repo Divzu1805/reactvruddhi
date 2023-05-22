@@ -1,2 +1,2 @@
-# reactvruddhi
-Sample Vruddhi Projects
+# reactsample
+Sample Projects
